@@ -1,5 +1,5 @@
 Roleplay Game - University of South Alabama Adventure
-
+Google Drive with EXE https://drive.google.com/file/d/1Zro38gEgC_zJedhoy1ZUfVchXC6T975J/view?usp=drive_link
 This project is a text-based roleplay game set in the style of the classic "Oregon Trail" game. The game takes place at the University of South Alabama, where you, the player, will navigate campus locations, interact with characters, and manage various aspects of your student life, including health, grades, and finances.
 
 The game is powered by an AI assistant that responds to your choices and drives the story forward. The experience is enhanced with background music and animations.
